@@ -2,42 +2,35 @@
 <a name="readme-top"></a>
 
 <!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
-<!-- [![Contributors][contributors-shield]][contributors-url]
+[![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url] -->
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
 
 
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/github_username/repo_name">
+  <a href="https://github.com/NguyenN95/Click-Web">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">Project Name</h3>
+<h3 align="center">Click</h3>
 
   <p align="center">
-    Project Description
+    An Ecommerce website
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/NguyenN95/Click-Web"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    <a href="https://github.com/NguyenN95/Click-Web">View Demo</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
+    <a href="https://github.com/NguyenN95/Click-Web/issues">Report Bug</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
+    <a href="https://github.com/NguyenN95/Click-Web/issues">Request Feature</a>
   </p>
 </div>
 
@@ -78,7 +71,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
+<!-- Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `NguyenN95`, `Click-Web`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description` -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -95,7 +88,7 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 <!-- GETTING STARTED -->
 ## Getting Started
 
-To get a local copy up and running follow these simple steps.
+You will need these tools and guideline to setup and run locally
 
 ### Prerequisites
 
@@ -110,7 +103,7 @@ npm install npm@latest -g
 
 1. Clone the repo
    ```bash
-   git clone https://github.com/github_username/repo_name.git
+   git clone https://github.com/NguyenN95/Click-Web.git
    ```
 2. Install NPM packages
    ```bash
@@ -156,10 +149,7 @@ _For more information about `Svelte`, please refer to the [Documentation](https:
 <!-- HELP -->
 ## Help
 
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
+> No issue so far
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -173,7 +163,7 @@ command to run if program contains helper info
 - [ ] Feature 3
     - [ ] Nested Feature
 
-See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/NguyenN95/Click-Web/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -212,7 +202,7 @@ Don't forget to give the project a star! Thanks again!
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+Distributed under the MIT License. See `LICENSE` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -221,9 +211,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Nguyen - [@Nguyen Linkedin](https://www.linkedin.com/in/binhnguyennguyen/)
+Nguyen - nguyennguyen7595@gmail.com
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: [https://github.com/NguyenN95/Click-Web](https://github.com/NguyenN95/Click-Web)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -233,6 +223,9 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 ## Acknowledgments
 
 * [Best-README-Template](https://github.com/othneildrew/Best-README-Template)
+* [Markdown cheat sheets](https://www.markdownguide.org/basic-syntax/#reference-style-links)
+* [Markdown badges cheat sheets](https://github.com/Ileriayo/markdown-badges)
+* [Make your own custom badges](https://javascript.plainenglish.io/how-to-make-custom-language-badges-for-your-profile-using-shields-io-d2aeaf016b6b)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -245,23 +238,23 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 <!-- https://github.com/Ileriayo/markdown-badges -->
 <!-- https://javascript.plainenglish.io/how-to-make-custom-language-badges-for-your-profile-using-shields-io-d2aeaf016b6b -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
-[contributors-url]: https://github.com/github_username/repo_name/graphs/contributors
+[contributors-shield]: https://img.shields.io/github/contributors/NguyenN95/Click-Web.svg?style=for-the-badge
+[contributors-url]: https://github.com/NguyenN95/Click-Web/graphs/contributors
 
-[forks-shield]: https://img.shields.io/github/forks/github_username/repo_name.svg?style=for-the-badge
-[forks-url]: https://github.com/github_username/repo_name/network/members
+[forks-shield]: https://img.shields.io/github/forks/NguyenN95/Click-Web.svg?style=for-the-badge
+[forks-url]: https://github.com/NguyenN95/Click-Web/network/members
 
-[stars-shield]: https://img.shields.io/github/stars/github_username/repo_name.svg?style=for-the-badge
-[stars-url]: https://github.com/github_username/repo_name/stargazers
+[stars-shield]: https://img.shields.io/github/stars/NguyenN95/Click-Web.svg?style=for-the-badge
+[stars-url]: https://github.com/NguyenN95/Click-Web/stargazers
 
-[issues-shield]: https://img.shields.io/github/issues/github_username/repo_name.svg?style=for-the-badge
-[issues-url]: https://github.com/github_username/repo_name/issues
+[issues-shield]: https://img.shields.io/github/issues/NguyenN95/Click-Web.svg?style=for-the-badge
+[issues-url]: https://github.com/NguyenN95/Click-Web/issues
 
-[license-shield]: https://img.shields.io/github/license/github_username/repo_name.svg?style=for-the-badge
-[license-url]: https://github.com/github_username/repo_name/blob/master/LICENSE.txt
+[license-shield]: https://img.shields.io/github/license/NguyenN95/Click-Web.svg?style=for-the-badge
+[license-url]: https://github.com/NguyenN95/Click-Web/blob/master/LICENSE.txt
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/linkedin_username
+[linkedin-url]: https://linkedin.com/in/nguyenn95
 
 [product-screenshot]: images/screenshot.png
 
